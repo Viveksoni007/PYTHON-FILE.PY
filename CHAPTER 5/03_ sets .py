@@ -1,0 +1,9 @@
+# VIVEK I LOVE YOU DEAR WOLRD ILOVE MY COADIND EXPERIENCE I LOVE WHAT IAM I DOING TO LEARN PYTHON IN 3 TO4 DAYS THAT 
+# # THAT IS MY GOAL I HAVE DEVLOP MY  COADING TO PERSONAL AASITANT 
+
+s= {1,3,50,23,5,55,5,5}
+
+
+e = set() #dont use s={} as it will create an empty dictionarty
+
+print(s)
